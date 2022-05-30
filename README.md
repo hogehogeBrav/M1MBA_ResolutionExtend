@@ -29,3 +29,5 @@ git clone [このレポ]
 ![image](https://user-images.githubusercontent.com/78929673/171062510-54a5dd55-2c39-4e38-9887-331b8f66b94d.png)
 
 5. 以上
+
+参考...https://dev.classmethod.jp/articles/m1-macbook-air-13inch-1920x1200/
