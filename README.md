@@ -5,7 +5,7 @@ M1 MacBookAirの擬似解像度に1920x1200を追加するやつ
 ## (自分の)環境
 
 - M1 MacBookAir(Late2020) 16GB/1TB
-- macOS Monterey 12.4
+- macOS Monterey 12.4 -> Ventura 13.0
 
 ## 前提条件
 
