@@ -26,7 +26,11 @@ git clone [このレポ]
 3. mac再起動
 4. [システム環境設定]->[ディスプレイ]で解像度を選択する所になんか増えてるはずです  
   
+- macOS Monterey
 ![image](https://user-images.githubusercontent.com/78929673/171062510-54a5dd55-2c39-4e38-9887-331b8f66b94d.png)
+
+- macOS Ventura
+![image](https://user-images.githubusercontent.com/78929673/198668466-dcb3e377-d019-4b65-b057-8ff7a06f50e8.png)
 
 5. 以上
 
