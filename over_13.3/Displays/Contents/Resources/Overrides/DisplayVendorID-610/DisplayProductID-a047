@@ -5,7 +5,7 @@
 	<key>DisplayVendorID</key>
         <integer>1552</integer>
         <key>DisplayProductID</key>
-        <integer>41029</integer>
+        <integer>41031</integer>
 	<key>DisplayProductName</key>
 	<string>Color LCD</string>
 	<key>scale-resolutions</key>
